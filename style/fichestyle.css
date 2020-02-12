@@ -1,0 +1,5 @@
+.prbleu, .prnoir, .prvert2
+{ display: block; background: url('/spritata') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+.prbleu { background-position: -0px -0px; width: 684px; height: 1356px; }
+.prnoir { background-position: -0px -1356px; width: 1280px; height: 2752px; }
+.prvert2 { background-position: -0px -4108px; width: 312px; height: 400px; }
